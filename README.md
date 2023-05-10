@@ -12,8 +12,8 @@
 </ul>
 
 <h2>Ilustrações<h2>
- <img src="./pagina-login.png">
+<!--  <img src="./pagina-login.png">
 <a href="![gif-pagina-login](https://user-images.githubusercontent.com/65471750/167302154-8e0385c5-6d8f-4151-85ea-29739df8ff4f.gif)"></a>
-
+ -->
 ![gif-pagina-login](https://user-images.githubusercontent.com/65471750/167302154-8e0385c5-6d8f-4151-85ea-29739df8ff4f.gif)
 
